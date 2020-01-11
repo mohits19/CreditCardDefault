@@ -13,6 +13,7 @@ The dataset contains demographic details of credit card customer as well as deta
 
 ## Code
 The Exploratory Data Analysis for the datatset was done on Tableau. This is the [Tableau Workbook](Business_tableau_final.twbx).
+
 My code with approach for Statistical Analysis and model building is in the above [ipynb file](capstone.ipynb).  
 If unable to view on GitHub, try [NBViewer](https://nbviewer.jupyter.org/github/mohits19/CreditCardDefault/blob/master/capstone.ipynb).
 
